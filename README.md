@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA, SELENIUM.
 - 🌱 I leave in Bnagalore
 - 💞️ I’m looking to collaborate on (not at the moment)
-- 📫 racerpunithracer@gmail.com 
+- 📫 punithkumars547@gmail.com 
 
 <!---
 PunithKumar1998/PunithKumar1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
